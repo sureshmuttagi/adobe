@@ -1,10 +1,10 @@
-import { Component, OnInit } from "@angular/core";
+import { Component, OnInit, OnDestroy, Output } from "@angular/core";
 import { Store } from '@ngrx/store';
 import * as frmStore from "./store/index";
 import { Search, QueryParamList } from './models/twittersearch.model';
 import { ActivatedRoute } from '@angular/router';
 import { MessageService } from 'primeng/api';
-import { interval, timer } from 'rxjs';
+import { interval, timer, Observable } from 'rxjs';
 import { switchMap } from 'rxjs/operators';
 
 @Component({
@@ -12,12 +12,12 @@ import { switchMap } from 'rxjs/operators';
     templateUrl: './twittersearch.component.html'
 })
 
-export class TwitterSearchComponent implements OnInit {
+export class TwitterSearchComponent implements OnInit, OnDestroy {
 
     searchText: string;
     searchReults: Search[];
     counter: number;
-
+    search$: any;
     constructor(
         private store: Store<frmStore.SearchState>,
         private messageService: MessageService,
@@ -47,11 +47,10 @@ export class TwitterSearchComponent implements OnInit {
             });
         });
 
-        this.store.select(frmStore.selectAllSearchResults).subscribe((result: Search[]) => {
+        this.search$ = this.store.select(frmStore.selectAllSearchResults).subscribe((result: Search[]) => {
             console.log(result);
             this.searchReults = result;
             this.counter = 30;
-
         });
     }
 
@@ -65,5 +64,9 @@ export class TwitterSearchComponent implements OnInit {
             return false;
         }
         this.dispatchSearchAction(this.searchText);
+    }
+
+    ngOnDestroy() {
+        this.search$.unsubscribe();
     }
 }
