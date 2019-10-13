@@ -1,0 +1,1394 @@
+{
+    "statuses": [
+        {
+            "created_at": "Fri Oct 11 05:55:09 +0000 2019",
+            "id": 1182535086480052200,
+            "id_str": "1182535086480052225",
+            "text": "@duensixjaemin adobe sketch ครับเธอ",
+            "truncated": false,
+            "metadata": {
+                "iso_language_code": "eu",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1182477576305959000,
+            "in_reply_to_status_id_str": "1182477576305958913",
+            "in_reply_to_user_id": 859406348001226800,
+            "in_reply_to_user_id_str": "859406348001226753",
+            "in_reply_to_screen_name": "duensixjaemin",
+            "user": {
+                "id": 921610628183212000,
+                "id_str": "921610628183212032",
+                "name": "mueangram",
+                "screen_name": "minhyunlyricx",
+                "location": "writethelyric, gkrongmueang",
+                "description": "โดนจองแล้วครับ",
+                "url": "https://t.co/nSYMpryqpP",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/nSYMpryqpP",
+                                "expanded_url": "http://nineteen-95.com",
+                                "display_url": "nineteen-95.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1333,
+                "friends_count": 1014,
+                "listed_count": 2,
+                "created_at": "Sat Oct 21 05:34:31 +0000 2017",
+                "favourites_count": 7314,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 68944,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1182314401358962689/etFEVke-_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1182314401358962689/etFEVke-_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/921610628183212032/1570722367",
+                "profile_link_color": "151F6D",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "eu"
+        },
+        {
+            "created_at": "Fri Oct 11 03:22:53 +0000 2019",
+            "id": 1182496767037726700,
+            "id_str": "1182496767037726725",
+            "text": "RT @my_afternoon: Adobe Report เผย Customer Experience คือกุญแจสำคัญของ Online Retail https://t.co/BBWHVChWXD",
+            "truncated": false,
+            "metadata": {
+                "iso_language_code": "eu",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 19646113,
+                "id_str": "19646113",
+                "name": "Kai+.•.99",
+                "screen_name": "gd_ab",
+                "location": "ที่แห่งหนึ่งบนโลกใบนี้",
+                "description": "มีรำคาญบ้างอะไรบ้าง... Endorsed to: ELVIRA https://t.co/OY30EH8l92 ,Magan Lemonade https://t.co/pWSnNxWVdQ",
+                "url": "https://t.co/SLa1OYnjMS",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/SLa1OYnjMS",
+                                "expanded_url": "http://theeravat.com",
+                                "display_url": "theeravat.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/OY30EH8l92",
+                                "expanded_url": "http://elvira.co.th",
+                                "display_url": "elvira.co.th",
+                                "indices": [
+                                    43,
+                                    66
+                                ]
+                            },
+                            {
+                                "url": "https://t.co/pWSnNxWVdQ",
+                                "expanded_url": "http://facebook.com/maganlemonade",
+                                "display_url": "facebook.com/maganlemonade",
+                                "indices": [
+                                    83,
+                                    106
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 1066,
+                "friends_count": 915,
+                "listed_count": 135,
+                "created_at": "Wed Jan 28 11:11:31 +0000 2009",
+                "favourites_count": 8101,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 250984,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "131516",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/941186773828489216/7zJGWqhN_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/941186773828489216/7zJGWqhN_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/19646113/1555184519",
+                "profile_link_color": "009999",
+                "profile_sidebar_border_color": "EEEEEE",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Fri Oct 11 03:01:07 +0000 2019",
+                "id": 1182491286621868000,
+                "id_str": "1182491286621868032",
+                "text": "Adobe Report เผย Customer Experience คือกุญแจสำคัญของ Online Retail https://t.co/BBWHVChWXD",
+                "truncated": false,
+                "metadata": {
+                    "iso_language_code": "eu",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 35191861,
+                    "id_str": "35191861",
+                    "name": "Pukkanan Thiyajai",
+                    "screen_name": "my_afternoon",
+                    "location": "Bangkok",
+                    "description": "Digital Production Manager at Rakluke Group Co.,Ltd.",
+                    "url": "http://t.co/YPgdcIDtNJ",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/YPgdcIDtNJ",
+                                    "expanded_url": "http://www.afternoon.in.th",
+                                    "display_url": "afternoon.in.th",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 490,
+                    "friends_count": 716,
+                    "listed_count": 32,
+                    "created_at": "Sat Apr 25 11:12:08 +0000 2009",
+                    "favourites_count": 160,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 18175,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "FF6699",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+                    "profile_background_tile": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1782857773/profile2_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1782857773/profile2_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/35191861/1406596731",
+                    "profile_link_color": "B40B43",
+                    "profile_sidebar_border_color": "CC3366",
+                    "profile_sidebar_fill_color": "E5507E",
+                    "profile_text_color": "362720",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1,
+                "favorite_count": 0,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "eu"
+            },
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "eu"
+        },
+        {
+            "created_at": "Fri Oct 11 03:01:07 +0000 2019",
+            "id": 1182491286621868000,
+            "id_str": "1182491286621868032",
+            "text": "Adobe Report เผย Customer Experience คือกุญแจสำคัญของ Online Retail https://t.co/BBWHVChWXD",
+            "truncated": false,
+            "metadata": {
+                "iso_language_code": "eu",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 35191861,
+                "id_str": "35191861",
+                "name": "Pukkanan Thiyajai",
+                "screen_name": "my_afternoon",
+                "location": "Bangkok",
+                "description": "Digital Production Manager at Rakluke Group Co.,Ltd.",
+                "url": "http://t.co/YPgdcIDtNJ",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/YPgdcIDtNJ",
+                                "expanded_url": "http://www.afternoon.in.th",
+                                "display_url": "afternoon.in.th",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 490,
+                "friends_count": 716,
+                "listed_count": 32,
+                "created_at": "Sat Apr 25 11:12:08 +0000 2009",
+                "favourites_count": 160,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 18175,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FF6699",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme11/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme11/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1782857773/profile2_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1782857773/profile2_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/35191861/1406596731",
+                "profile_link_color": "B40B43",
+                "profile_sidebar_border_color": "CC3366",
+                "profile_sidebar_fill_color": "E5507E",
+                "profile_text_color": "362720",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "eu"
+        },
+        {
+            "created_at": "Thu Oct 10 23:26:55 +0000 2019",
+            "id": 1182437384127946800,
+            "id_str": "1182437384127946757",
+            "text": "RT @talenthouse_es: \"Xenophobia\" by @MissLadyMillz 🚌\n​\n​#ArtistaTalenthouse #adobephotoshop #adobe #photomanipulation #photoshop #digitalar…",
+            "truncated": false,
+            "metadata": {
+                "iso_language_code": "eu",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M2)</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 912189797002858500,
+                "id_str": "912189797002858496",
+                "name": "Hayata San",
+                "screen_name": "SanHayata",
+                "location": "https://www.deviantart.com/phibesby",
+                "description": "Artes, Ciencias y Buen Cine Japonés.         The Lyf so short, the Craft so long to Lerne",
+                "url": "https://t.co/zJqQ07tmuW",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/zJqQ07tmuW",
+                                "expanded_url": "https://www.youtube.com/c/hayataSan",
+                                "display_url": "youtube.com/c/hayataSan",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 93,
+                "friends_count": 159,
+                "listed_count": 0,
+                "created_at": "Mon Sep 25 05:39:30 +0000 2017",
+                "favourites_count": 5375,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 5953,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1068564427434323968/XFUKUkSr_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1068564427434323968/XFUKUkSr_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/912189797002858496/1506320061",
+                "profile_link_color": "981CEB",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Tue Oct 08 23:52:51 +0000 2019",
+                "id": 1181719133282607000,
+                "id_str": "1181719133282607104",
+                "text": "\"Xenophobia\" by @MissLadyMillz 🚌\n​\n​#ArtistaTalenthouse #adobephotoshop #adobe #photomanipulation #photoshop … https://t.co/Pd07HqWrdg",
+                "truncated": true,
+                "metadata": {
+                    "iso_language_code": "eu",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://skedsocial.com\" rel=\"nofollow\">Sked Social</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 128345428,
+                    "id_str": "128345428",
+                    "name": "Talenthouse Español",
+                    "screen_name": "talenthouse_es",
+                    "location": "Global",
+                    "description": "Talenthouse es una plataforma y comunidad creativa global. Conectamos a artistas con marcas e iconos. ¡Queremos ver tu arte! Tag: #ArtistaTalenthouse",
+                    "url": "http://t.co/fkrWGCetGM",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/fkrWGCetGM",
+                                    "expanded_url": "http://www.talenthouse.com",
+                                    "display_url": "talenthouse.com",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 27187,
+                    "friends_count": 1589,
+                    "listed_count": 337,
+                    "created_at": "Wed Mar 31 21:22:11 +0000 2010",
+                    "favourites_count": 1611,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 32916,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "FFFFFF",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1145714581429317632/iP1jlPE9_normal.png",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145714581429317632/iP1jlPE9_normal.png",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/128345428/1570474684",
+                    "profile_link_color": "8FC522",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "FFFFFF",
+                    "profile_text_color": "444444",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 3,
+                "favorite_count": 2,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "eu"
+            },
+            "is_quote_status": false,
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "eu"
+        },
+        {
+            "created_at": "Thu Oct 10 10:30:10 +0000 2019",
+            "id": 1182241907092668400,
+            "id_str": "1182241907092668416",
+            "text": "RT @heiseonline: Adobe deaktiviert alle Nutzerkonten in Venezuela https://t.co/P5T7F4mum8 #Adobe #AdobeLightroom",
+            "truncated": false,
+            "metadata": {
+                "iso_language_code": "eu",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 259205246,
+                "id_str": "259205246",
+                "name": "bota",
+                "screen_name": "vermoetan",
+                "location": "Merseburg, Deutschland",
+                "description": "Keep It Simple and Straightforward\n#TechnicalCommunicator ►: https://t.co/XXIF7Mfu3z",
+                "url": "https://t.co/KvNKoG8EpA",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/KvNKoG8EpA",
+                                "expanded_url": "https://dontstarve.gamepedia.com/charlie",
+                                "display_url": "dontstarve.gamepedia.com/charlie",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/XXIF7Mfu3z",
+                                "expanded_url": "http://three.ma/EVFAU8YN",
+                                "display_url": "three.ma/EVFAU8YN",
+                                "indices": [
+                                    61,
+                                    84
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 101,
+                "friends_count": 129,
+                "listed_count": 4,
+                "created_at": "Tue Mar 01 10:57:59 +0000 2011",
+                "favourites_count": 2903,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 2935,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "352726",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1062451870004887554/L905k_S2_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1062451870004887554/L905k_S2_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/259205246/1542299159",
+                "profile_link_color": "1B95E0",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "regular"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Tue Oct 08 13:36:08 +0000 2019",
+                "id": 1181563933670477800,
+                "id_str": "1181563933670477825",
+                "text": "Adobe deaktiviert alle Nutzerkonten in Venezuela https://t.co/P5T7F4mum8 #Adobe #AdobeLightroom",
+                "truncated": false,
+                "metadata": {
+                    "iso_language_code": "eu",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://www.heise.de\" rel=\"nofollow\">heise Tweetfeeds</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 3197921,
+                    "id_str": "3197921",
+                    "name": "heise online",
+                    "screen_name": "heiseonline",
+                    "location": "Hannover, Germany",
+                    "description": "News rund um Technik, IT und Digitales. https://t.co/NJ0q0oZhRQ & https://t.co/58VAdnL8oE",
+                    "url": "http://t.co/5ojHmmAo6O",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/5ojHmmAo6O",
+                                    "expanded_url": "http://www.heise.de",
+                                    "display_url": "heise.de",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/NJ0q0oZhRQ",
+                                    "expanded_url": "http://heise.de/impressum.html",
+                                    "display_url": "heise.de/impressum.html",
+                                    "indices": [
+                                        40,
+                                        63
+                                    ]
+                                },
+                                {
+                                    "url": "https://t.co/58VAdnL8oE",
+                                    "expanded_url": "http://heise.de/privacy",
+                                    "display_url": "heise.de/privacy",
+                                    "indices": [
+                                        66,
+                                        89
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 226955,
+                    "friends_count": 33,
+                    "listed_count": 5308,
+                    "created_at": "Mon Apr 02 09:20:48 +0000 2007",
+                    "favourites_count": 1441,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": true,
+                    "statuses_count": 122560,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "000000",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/615190234758782976/P-Kawo-P_normal.png",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/615190234758782976/P-Kawo-P_normal.png",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/3197921/1558942439",
+                    "profile_link_color": "012469",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "EEEEEE",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": false,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 12,
+                "favorite_count": 8,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "eu"
+            },
+            "is_quote_status": false,
+            "retweet_count": 12,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "eu"
+        },
+        {
+            "created_at": "Thu Oct 10 08:41:58 +0000 2019",
+            "id": 1182214678610473000,
+            "id_str": "1182214678610472961",
+            "text": "@bobbyleks adobe aman kok 😬 https://t.co/wHWGOpnzlK",
+            "truncated": false,
+            "metadata": {
+                "iso_language_code": "eu",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+            "in_reply_to_status_id": 1182196779640471600,
+            "in_reply_to_status_id_str": "1182196779640471555",
+            "in_reply_to_user_id": 75004880,
+            "in_reply_to_user_id_str": "75004880",
+            "in_reply_to_screen_name": "bobbyleks",
+            "user": {
+                "id": 2295588763,
+                "id_str": "2295588763",
+                "name": "PacuL",
+                "screen_name": "ariehrynt",
+                "location": "Indonesia",
+                "description": " Enthusiast | Ducati | V.4 | IG : @ariehrynt",
+                "url": "https://t.co/05eJKlbdbc",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/05eJKlbdbc",
+                                "expanded_url": "https://www.youtube.com/channel/UCDuOdSTEHL3l5IdQUmzptag",
+                                "display_url": "youtube.com/channel/UCDuOd…",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1099,
+                "friends_count": 318,
+                "listed_count": 12,
+                "created_at": "Fri Jan 17 06:12:02 +0000 2014",
+                "favourites_count": 234,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 24375,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "131516",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1156656120544411648/5WA-jH4Z_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1156656120544411648/5WA-jH4Z_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2295588763/1557240793",
+                "profile_link_color": "009999",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": true,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "eu"
+        },
+        {
+            "created_at": "Wed Oct 09 13:24:09 +0000 2019",
+            "id": 1181923302761058300,
+            "id_str": "1181923302761058305",
+            "text": "RT @l3lighttown: Adobe Frescoで",
+            "truncated": false,
+            "metadata": {
+                "iso_language_code": "eu",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 86486936,
+                "id_str": "86486936",
+                "name": "かずちん（アイコン変えました）",
+                "screen_name": "Kaz6801",
+                "location": "",
+                "description": "映画、アニメ、特撮、ゲームが好きだがオタクになりきれないハンパ者。友達いないので週末に近所の映画館で独りで映画観るのが唯一の楽しみ。B級ホラー・SFのDVD買って後で後悔するのが得意技",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 793,
+                "friends_count": 1320,
+                "listed_count": 24,
+                "created_at": "Sat Oct 31 08:18:32 +0000 2009",
+                "favourites_count": 18064,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 73243,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/568756937689292800/UBqZ-Nu3_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/568756937689292800/UBqZ-Nu3_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/86486936/1495128858",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Fri Sep 27 09:06:06 +0000 2019",
+                "id": 1177509710536200200,
+                "id_str": "1177509710536200193",
+                "text": "Adobe Frescoで",
+                "truncated": false,
+                "metadata": {
+                    "iso_language_code": "eu",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": 1177509565983670300,
+                "in_reply_to_status_id_str": "1177509565983670273",
+                "in_reply_to_user_id": 2358093734,
+                "in_reply_to_user_id_str": "2358093734",
+                "in_reply_to_screen_name": "l3lighttown",
+                "user": {
+                    "id": 2358093734,
+                    "id_str": "2358093734",
+                    "name": "シマモト / sʜɪᴍᴀᴍᴏᴛᴏ",
+                    "screen_name": "l3lighttown",
+                    "location": "",
+                    "description": "ᴀʀᴛsᴛᴀᴛɪᴏɴ : https://t.co/SFt55uBtlZ ɪɴsᴛᴀɢʀᴀᴍ : https://t.co/CBjy1pZ93E",
+                    "url": "https://t.co/DXUdYoyZLf",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/DXUdYoyZLf",
+                                    "expanded_url": "http://pixiv.me/user_vhna4424",
+                                    "display_url": "pixiv.me/user_vhna4424",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/SFt55uBtlZ",
+                                    "expanded_url": "https://www.artstation.com/shimamoto",
+                                    "display_url": "artstation.com/shimamoto",
+                                    "indices": [
+                                        13,
+                                        36
+                                    ]
+                                },
+                                {
+                                    "url": "https://t.co/CBjy1pZ93E",
+                                    "expanded_url": "http://Instagram.com/shimamoto_art/",
+                                    "display_url": "Instagram.com/shimamoto_art/",
+                                    "indices": [
+                                        49,
+                                        72
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 23623,
+                    "friends_count": 384,
+                    "listed_count": 261,
+                    "created_at": "Sun Feb 23 14:52:57 +0000 2014",
+                    "favourites_count": 7418,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 7677,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1134867058238169088/5SLwIEDI_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1134867058238169088/5SLwIEDI_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2358093734/1568462888",
+                    "profile_link_color": "1DA1F2",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1,
+                "favorite_count": 15,
+                "favorited": false,
+                "retweeted": false,
+                "lang": "eu"
+            },
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "eu"
+        },
+        {
+            "created_at": "Wed Oct 09 12:19:42 +0000 2019",
+            "id": 1181907086919098400,
+            "id_str": "1181907086919098369",
+            "text": "@ioveleejungshin Adobe sketch เลยค่าา",
+            "truncated": false,
+            "metadata": {
+                "iso_language_code": "eu",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1181906726166990800,
+            "in_reply_to_status_id_str": "1181906726166990848",
+            "in_reply_to_user_id": 422457543,
+            "in_reply_to_user_id_str": "422457543",
+            "in_reply_to_screen_name": "ioveleejungshin",
+            "user": {
+                "id": 1057241799360634900,
+                "id_str": "1057241799360634880",
+                "name": "แม่น้องเจ🍅",
+                "screen_name": "mmgagaa",
+                "location": "",
+                "description": "หม่ามี้รักน้องเจ 🍅 nuest’s fanart 🍅 ig : mmgagaa / __avogado__ 🥑 #ของแม่น้องเจ\n\nhttps://t.co/ZglnmnBWfv",
+                "url": "https://t.co/s9Nw0RtCWY",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/s9Nw0RtCWY",
+                                "expanded_url": "https://www.instagram.com/mmgagaa/",
+                                "display_url": "instagram.com/mmgagaa/",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/ZglnmnBWfv",
+                                "expanded_url": "https://drive.google.com/open?id=1r-G2V4MLogxGQlNLmGDQUouoRm_WDoX06iKd3XSLKoo",
+                                "display_url": "drive.google.com/open?id=1r-G2V…",
+                                "indices": [
+                                    80,
+                                    103
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 1158,
+                "friends_count": 196,
+                "listed_count": 6,
+                "created_at": "Tue Oct 30 12:04:22 +0000 2018",
+                "favourites_count": 892,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 3305,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "000000",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1153735758571700229/HqBdBvY4_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1153735758571700229/HqBdBvY4_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1057241799360634880/1563915051",
+                "profile_link_color": "E81C4F",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "000000",
+                "profile_text_color": "000000",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "eu"
+        },
+        {
+            "created_at": "Wed Oct 09 11:53:46 +0000 2019",
+            "id": 1181900559239938000,
+            "id_str": "1181900559239938048",
+            "text": "โปรแกรม Adobe audiotion",
+            "truncated": false,
+            "metadata": {
+                "iso_language_code": "eu",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "in_reply_to_status_id": 1181890758283972600,
+            "in_reply_to_status_id_str": "1181890758283972609",
+            "in_reply_to_user_id": 1178957437811884000,
+            "in_reply_to_user_id_str": "1178957437811884032",
+            "in_reply_to_screen_name": "I_7213",
+            "user": {
+                "id": 1178957437811884000,
+                "id_str": "1178957437811884032",
+                "name": "อัยย์",
+                "screen_name": "I_7213",
+                "location": "",
+                "description": "#แฟ้มคดีลับ | 14/02 146cm",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 37,
+                "friends_count": 46,
+                "listed_count": 0,
+                "created_at": "Tue Oct 01 08:58:57 +0000 2019",
+                "favourites_count": 97,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 421,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "F5F8FA",
+                "profile_background_image_url": null,
+                "profile_background_image_url_https": null,
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1180053240244604929/4GfIbGWf_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1180053240244604929/4GfIbGWf_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1178957437811884032/1570207988",
+                "profile_link_color": "1DA1F2",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "eu"
+        },
+        {
+            "created_at": "Wed Oct 09 08:31:34 +0000 2019",
+            "id": 1181849672706642000,
+            "id_str": "1181849672706641922",
+            "text": "RT @talenthouse_es: \"Xenophobia\" by @MissLadyMillz 🚌\n​\n​#ArtistaTalenthouse #adobephotoshop #adobe #photomanipulation #photoshop #digitalar…",
+            "truncated": false,
+            "metadata": {
+                "iso_language_code": "eu",
+                "result_type": "recent"
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 24722690,
+                "id_str": "24722690",
+                "name": "𝐦𝐢𝐥𝐥𝐳𝐠𝐫𝐚𝐩𝐡𝐢𝐱𝐱.𝐜𝐨𝐦 ♡",
+                "screen_name": "MissLadyMillz",
+                "location": "Miami / Miramar, FL",
+                "description": "🇩🇴 Digital Concept Artist for 13 yrs ▪️Art + Personal Instagram: @MillzGraphixx & @MissLadyMillz ▪️My Keto IG : @ketominicanas ▪️Email: only@millzgraphixx.com",
+                "url": "https://t.co/SSKPPlh1Vm",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/SSKPPlh1Vm",
+                                "expanded_url": "http://www.millzgraphixx.com",
+                                "display_url": "millzgraphixx.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 5884,
+                "friends_count": 624,
+                "listed_count": 164,
+                "created_at": "Mon Mar 16 16:46:04 +0000 2009",
+                "favourites_count": 781,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 37079,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FFFFFF",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme2/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme2/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1181937368145772544/GSASJUkS_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1181937368145772544/GSASJUkS_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/24722690/1547588739",
+                "profile_link_color": "000000",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": false,
+                "has_extended_profile": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "created_at": "Tue Oct 08 23:52:51 +0000 2019",
+                "id": 1181719133282607000,
+                "id_str": "1181719133282607104",
+                "text": "\"Xenophobia\" by @MissLadyMillz 🚌\n​\n​#ArtistaTalenthouse #adobephotoshop #adobe #photomanipulation #photoshop … https://t.co/Pd07HqWrdg",
+                "truncated": true,
+                "metadata": {
+                    "iso_language_code": "eu",
+                    "result_type": "recent"
+                },
+                "source": "<a href=\"https://skedsocial.com\" rel=\"nofollow\">Sked Social</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 128345428,
+                    "id_str": "128345428",
+                    "name": "Talenthouse Español",
+                    "screen_name": "talenthouse_es",
+                    "location": "Global",
+                    "description": "Talenthouse es una plataforma y comunidad creativa global. Conectamos a artistas con marcas e iconos. ¡Queremos ver tu arte! Tag: #ArtistaTalenthouse",
+                    "url": "http://t.co/fkrWGCetGM",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/fkrWGCetGM",
+                                    "expanded_url": "http://www.talenthouse.com",
+                                    "display_url": "talenthouse.com",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 27187,
+                    "friends_count": 1589,
+                    "listed_count": 337,
+                    "created_at": "Wed Mar 31 21:22:11 +0000 2010",
+                    "favourites_count": 1611,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 32916,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "FFFFFF",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1145714581429317632/iP1jlPE9_normal.png",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145714581429317632/iP1jlPE9_normal.png",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/128345428/1570474684",
+                    "profile_link_color": "8FC522",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "FFFFFF",
+                    "profile_text_color": "444444",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false,
+                    "translator_type": "none"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 3,
+                "favorite_count": 2,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "eu"
+            },
+            "is_quote_status": false,
+            "retweet_count": 3,
+            "favorite_count": 0,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "eu"
+        }
+    ],
+    "search_metadata": {
+        "completed_in": 0.044,
+        "max_id": 1182535086480052200,
+        "max_id_str": "1182535086480052225",
+        "next_results": "?max_id=1181849672706641921&q=adobe&lang=eu&count=10",
+        "query": "adobe",
+        "refresh_url": "?since_id=1182535086480052225&q=adobe&lang=eu",
+        "count": 10,
+        "since_id": 0,
+        "since_id_str": "0"
+    }
+}
